@@ -1,5 +1,5 @@
-👋 Hi, I'm Sash (aka codebysash)
-I'm a developer based in Brisbane, Queensland, Australia 🇦🇺
+👋 Hi, I'm Sash 
+I'm a developer based in Australia 🇦🇺
 Currently 100% focused on mastering deep learning through fast.ai and building meaningful AI applications that solve real-world problems.
 
 🎯 Current Mission: Fast.ai Mastery
