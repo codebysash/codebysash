@@ -1,29 +1,37 @@
-# 👋 Hi, I'm Sash (aka codebysash)
+👋 Hi, I'm Sash (aka codebysash)
+I'm a developer based in Brisbane, Queensland, Australia 🇦🇺
+Currently 100% focused on mastering deep learning through fast.ai and building meaningful AI applications that solve real-world problems.
 
-I'm an aspiring full-stack developer based in Gold Coast, Australia 🇦🇺  
-Currently diving deep into **ASP.NET Core**, **C#**, and **JavaScript**, with a focus on backend development and building real-world apps.
+🎯 Current Mission: Fast.ai Mastery
+Primary focus - learning and building:
 
----
-
-### 💻 What I'm Working On:
-- ✅ [HotelBookingApi](https://github.com/codebysash/aspnet-learning-journey) – full CRUD API using ASP.NET Core + EF Core
-- 🔨 Learning frontend with JavaScript via The Odin Project
-- 🧠 Exploring AI and blockchain intersections (Bittensor Subnets, AI trading)
-
----
-
-### 🎯 2025 Goals
-- 💼 Land my first software developer role or internship
-- 🧱 Build and deploy a fullstack SaaS app
-- 📂 Grow my GitHub with portfolio-worthy projects
-
----
-
-### 📬 Let’s Connect
-- [GitHub @codebysash](https://github.com/codebysash)
-- [LinkedIn](https://www.linkedin.com/in/codebysash)
+🤖 Fast.ai Deep Learning Course - Building production-ready classifiers
+🦿 Prosthetic Device AI - Image classification for medical devices (personal passion project)
+🧪 Materials Science AI - Nanotube quality control applications
+📚 Python for Data Analysis - Mastering the data science stack
 
 
----
+📈 Learning Progress (Day 3)
 
-Thanks for stopping by — and if you're hiring, I'm keen to learn, build, and grow 🙌
+✅ Chapter 1: Image classification fundamentals mastered
+✅ Bird Classifier: Built solo from scratch
+🎯 Bear Classifier: 3-category classification (in progress)
+🎯 Prosthetic Classifier: Breakthrough project (coming soon)
+
+
+🔬 Projects in Development:
+
+Fast.ai Journey - Complete learning documentation
+Prosthetic Classification System - AI for medical device identification
+BNNT Quality Control - Materials science applications
+
+
+💡 Philosophy:
+Deep focus on meaningful AI applications. Always learning, always building.
+Open to internship opportunities where I can apply and expand my AI/ML skills while contributing to impactful projects.
+
+🤝 Let's Connect
+
+GitHub @codebysash
+
+Building meaningful AI solutions, one classifier at a time.
