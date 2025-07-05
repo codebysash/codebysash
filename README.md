@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sash
 
-I'm a developer based in Australia 🇦🇺  
+I'm an aspiring developer based in Australia 🇦🇺  
 Currently 100% focused on mastering deep learning through fast.ai and building meaningful AI applications that solve real-world problems.
 
 ---
