@@ -19,8 +19,8 @@ Currently 100% focused on mastering deep learning through fast.ai and building m
 
 - ✅ Chapter 1: Image classification fundamentals mastered  
 - ✅ Bird Classifier: Built solo from scratch  
-- ✅ Bear Classifier: Completed and deployed  
-- 🚀 Prosthetic Classifier: Breakthrough project in progress  
+- ✅ Bear Classifier: Completed 
+- 🚀 Prosthetic Classifier: Cpmleted phase 1
 
 ---
 
