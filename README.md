@@ -10,7 +10,6 @@ Currently 100% focused on mastering deep learning through fast.ai and building m
 ### 📌 Primary Focus
 - 🤖 Fast.ai Deep Learning Course – Building production-ready classifiers  
 - 🦿 Prosthetic Device AI – Image classification for medical devices  
-- 🧪 Materials Science AI – BNNT nanotube quality control  
 - 📚 Python for Data Analysis – Mastering the data science stack  
 
 ---
