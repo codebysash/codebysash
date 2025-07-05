@@ -28,7 +28,6 @@ Currently 100% focused on mastering deep learning through fast.ai and building m
 
 - 📖 Fast.ai Journey – Complete learning documentation  
 - 🦿 Prosthetic Classification System – AI for medical device identification  
-- 🧪 BNNT Quality Control – Materials science applications  
 
 ---
 
