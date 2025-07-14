@@ -1,45 +1,21 @@
-# 👋 Hi, I'm Sash
+👋 Building AI solutions that solve real problems
+Business → Tech Career Transition | Master's in Accounting | Full-time Developer Since Jan 2025
+🎯 What I Bring:
 
-I'm an aspiring developer based in Australia 🇦🇺  
-Currently 100% focused on mastering deep learning through fast.ai and building meaningful AI applications that solve real-world problems.
+Business Acumen – Ran my own business, understand stakeholder needs & ROI
+Technical Execution – Shipping working AI apps with Python, Next.js, and OpenAI APIs
+Real-world Focus – Building accessibility tech and fintech solutions that matter
 
----
+🚀 Recent Builds:
 
-## 🎯 Current Mission: Fast.ai Mastery
+AI Student Learning Platform – Next.js + OpenAI + interactive mindmaps & quizzes
+Titanic Survival ML Pipeline – Complete EDA, feature engineering, 4 models, Streamlit app
+Medical Device Classifier – Applied ML to prosthetic technology (personal passion project)
 
-### 📌 Primary Focus
-- 🤖 Fast.ai Deep Learning Course – Building production-ready classifiers  
-- 🦿 Prosthetic Device AI – Image classification for medical devices  
-- 📚 Python for Data Analysis – Mastering the data science stack  
-
----
-
-## 📈 Learning Progress (Day 5)
-
-- ✅ Chapter 1: Image classification fundamentals mastered  
-- ✅ Bird Classifier: Built solo from scratch  
-- ✅ Bear Classifier: Completed 
-- 🚀 Prosthetic Classifier: Cpmleted phase 1
-
----
-
-## 🔬 Projects in Development
-
-- 📖 Fast.ai Journey – Complete learning documentation  
-- 🦿 Prosthetic Classification System – AI for medical device identification  
-
----
-
-## 💡 Philosophy
-
-Deep focus on meaningful, real-world AI applications.  
-Always learning, always building.
-
-Open to internship opportunities where I can apply and grow my AI/ML skills through impactful work.
-
----
-
-## 🤝 Let's Connect
-
-📂 GitHub → [@codebysash](https://github.com/codebysash)  
-🧠 Building meaningful AI solutions, one classifier at a time.
+💻 Tech Stack:
+Python | JavaScript | Next.js | FastAI | OpenAI APIs | Streamlit | Git | Claude Code
+📊 Why I'm Different:
+Most junior devs lack business context. I understand both the technical implementation AND the business value. I can translate between stakeholders and code.
+🎯 Seeking: Data Analyst or Junior Developer roles where I can apply ML/AI to real business problems
+Ready to contribute from day one.
+📍 Brisbane, Australia | Open to remote opportunities
